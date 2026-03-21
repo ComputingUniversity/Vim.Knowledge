@@ -1,4 +1,4 @@
-# Neovim.Knowledge
+# Neovim.Editor Knowledge
 # Home:
 https://neovim.io
 

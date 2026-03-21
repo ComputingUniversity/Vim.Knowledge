@@ -1,6 +1,6 @@
 # Neovim.Knowledge
 # Home:
-https://en.wikipedia.org/wiki/Neovim
+https://neovim.io
 
 # Wiki:
-https://neovim.io/
+https://en.wikipedia.org/wiki/Neovim

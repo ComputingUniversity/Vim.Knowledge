@@ -6,9 +6,11 @@
 
 # Favorite:
 - [Teaching Neovim From Scratch To A Noob](https://youtu.be/-ybCiHPWKNA)
-
+- [Why I use Vim in 2022](https://youtu.be/D4YTJ2W5q4Y)
 
 # Relation:
 ## TMux
 - [TMUX in 100 seconds | Prime Reacts](https://youtu.be/0eHZRPzbiJ0)
  
+## VSCode
+- [Why I Left Nvim | Prime Reacts](https://youtu.be/Ric2wHzPfcM)

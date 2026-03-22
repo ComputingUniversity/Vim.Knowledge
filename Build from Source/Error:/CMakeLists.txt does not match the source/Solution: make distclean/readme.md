@@ -8,4 +8,4 @@ sch:
 # Solution:
 https://github.com/neovim/neovim/issues/19148
 
-`make distclean`
+Works: `make distclean`

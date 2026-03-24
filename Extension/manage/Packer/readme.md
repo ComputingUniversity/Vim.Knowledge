@@ -1,7 +1,7 @@
 # Home:
 https://github.com/lewis6991/pckr.nvim
 
-# .old
+## .old
 https://github.com/wbthomason/packer.nvim
 
 # Guide:

@@ -3,8 +3,9 @@ dir=~/.local/share/nvim/lazy
 cd $dir
 
 repos=(
-"https://github.com/nvim-mini/mini.nvim.git",
 "https://github.com/L3MON4D3/LuaSnip.git",
+"https://github.com/nvim-mini/mini.nvim.git",
+"https://github.com/neovim/nvim-lspconfig.git",
 )
 
 for r in repos

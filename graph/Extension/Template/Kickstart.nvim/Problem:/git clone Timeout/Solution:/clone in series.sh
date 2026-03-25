@@ -2,4 +2,12 @@
 dir=~/.local/share/nvim/lazy
 cd $dir
 
-git clone --recurse-submodules
+repos=(
+"https://github.com/nvim-mini/mini.nvim.git",
+"https://github.com/L3MON4D3/LuaSnip.git",
+)
+
+for r in repos
+do
+   git clone --recurse-submodules $r
+done

@@ -1,10 +1,7 @@
-# Home:
-https://github.com/lewis6991/pckr.nvim
-
-## .old
+# .obsolete
 https://github.com/wbthomason/packer.nvim
 
-# Guide:
+## Guide:
 - [Managing Neovim plugins with Packer](https://youtu.be/-jqmv6USnOk)
 
 sch:

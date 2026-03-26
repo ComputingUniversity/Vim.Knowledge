@@ -28,7 +28,7 @@ echo ${repos[@]}
 
 for r in $repos
 do
-   git clone --recurse-submodules $r
+   git clone --recurse-submodules $r || true # Ignores already cloned directories
 done
 
 # Cannot use ` --depth=1` because Kickstart.nvim will checkout specific Commits.

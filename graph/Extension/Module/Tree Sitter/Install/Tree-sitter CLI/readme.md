@@ -1,6 +1,10 @@
 # Install: Tree Sitter CLI
 https://github.com/tree-sitter/tree-sitter/blob/master/crates/cli/README.md
 
+## Prereqs:
+`sudo apt install clang`
+
+## Install:
 `cargo install --locked tree-sitter-cli`
 
 # Dependency:

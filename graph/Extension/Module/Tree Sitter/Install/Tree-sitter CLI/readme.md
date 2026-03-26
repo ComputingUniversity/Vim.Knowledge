@@ -6,3 +6,6 @@ https://github.com/tree-sitter/tree-sitter/blob/master/crates/cli/README.md
 # Dependency:
 ## NodeJS
 https://www.google.com/search?q=debian+nodejs+install
+
+Debian:
+`sudo apt install nodejs`

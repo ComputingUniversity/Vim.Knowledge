@@ -1,9 +1,8 @@
 # Error: "Process was killed because it reached the timeout"
 
-# Solution:
+# Cause: Slow internet connection
 
-# Discuss:
-https://www.reddit.com/r/neovim/comments/1im2x54/neovim_lazynvim_clone_failed_error/
+# Solution: Clone in Series Before running Kickstart.nvim
 
 # sch:
 https://www.google.com/search?q=kickstart.nvim+clone+one+at+a+time

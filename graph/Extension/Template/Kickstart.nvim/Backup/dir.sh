@@ -1,0 +1,9 @@
+dirs=(
+".cache"
+".cargo"
+".config"
+".local"
+".profile"
+".sommelierrc"
+".viminfo"
+)
